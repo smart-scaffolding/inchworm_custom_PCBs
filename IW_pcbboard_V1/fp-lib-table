@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ATMEGA8-16PU)(type KiCad)(uri "C:/Users/JosuD/Documents/MQP/kidcad libraries/ATMEGA8-16PU")(options "")(descr ""))
+  (lib (name CP2102-GM)(type KiCad)(uri "C:/Users/JosuD/Documents/MQP/kidcad libraries/CP2102-GM")(options "")(descr ""))
+  (lib (name IW)(type KiCad)(uri ${KIPRJMOD}/IW.pretty)(options "")(descr ""))
+  (lib (name PJ-082BH)(type KiCad)(uri "C:/Users/JosuD/Documents/MQP/kidcad libraries/PJ-082BH")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+9:55:30 PM: Failed to open 'C:\Users\JosuD\Documents\MQP\kidcad libraries\ATMEGA8-16PU\DIP793W45P254L3479H457Q28.mod' for reading (error 2: the system cannot find the file specified.)
+9:55:30 PM: Failed to retrieve file times for 'C:\Users\JosuD\Documents\MQP\kidcad libraries\ATMEGA8-16PU\DIP793W45P254L3479H457Q28.mod' (error 2: the system cannot find the file specified.)
+9:55:56 PM: Failed to open 'C:\Users\JosuD\Documents\MQP\kidcad libraries\ATMEGA8-16PU\DIP793W45P254L3479H457Q28.mod' for reading (error 2: the system cannot find the file specified.)
+9:55:56 PM: Failed to retrieve file times for 'C:\Users\JosuD\Documents\MQP\kidcad libraries\ATMEGA8-16PU\DIP793W45P254L3479H457Q28.mod' (error 2: the system cannot find the file specified.)
